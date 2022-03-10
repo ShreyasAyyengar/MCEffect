@@ -1,0 +1,7 @@
+name: MCEffect
+version: '${project.version}'
+main: me.shreyasayyengar.mceffect.MCEffect
+api-version: 1.18
+prefix: MCEffect
+authors: [ ShreyasAyyengar ]
+description: Minecraft but you get an effect every minute
